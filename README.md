@@ -1,4 +1,4 @@
-# pinia-app2
+# user management 
 
 ## Project setup
 ```
